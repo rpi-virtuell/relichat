@@ -4,9 +4,17 @@ Du kannst den  [Editor auf GitHub](https://github.com/rpi-virtuell/relichat/edit
 
 
 
-### Moderationsvorlagen
-
+### Vorlagen
+#### Moderation
 unter [/orga/moderationsvorlagen](https://github.com/rpi-virtuell/relichat/tree/master/orga/moderationsvorlagen) abgespeichert
+
+#### Checklisten
+[#relichat-Checkliste im Wochenverlauf auf Trello](https://trello.com/b/Td8mNHUJ/relichat-checkliste)
+
+#### Visuals
+
+#### Design
+Schriftart / Font "Yanone Kaffeesatz" | https://www.yanone.de/fonts/kaffeesatz/
 
 
 
