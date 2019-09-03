@@ -17,7 +17,8 @@ unter [/orga/moderationsvorlagen](https://github.com/rpi-virtuell/relichat/tree/
 #### Design
 Schriftart / Font "Yanone Kaffeesatz" | [https://www.yanone.de/fonts/kaffeesatz/](https://www.yanone.de/fonts/kaffeesatz/)
 
-
+### Termine
+[https://www.relichat.org/2018/07/24/relichat-termine-2019/](https://www.relichat.org/2018/07/24/relichat-termine-2019/)
 
 ### Unterstützung oder Kontakt
 
