@@ -12,6 +12,7 @@ unter [/orga/moderationsvorlagen](https://github.com/rpi-virtuell/relichat/tree/
 [#relichat-Checkliste im Wochenverlauf auf Trello](https://trello.com/b/Td8mNHUJ/relichat-checkliste)
 
 #### Visuals
+[Sammlung bisheriger Visuals als .jpg und .PSD](https://cloud.rpi-virtuell.de/index.php/s/bZPa2FbY2bMagbE) auf nextcloud 
 
 #### Design
 Schriftart / Font "Yanone Kaffeesatz" | https://www.yanone.de/fonts/kaffeesatz/
