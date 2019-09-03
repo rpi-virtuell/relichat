@@ -1,4 +1,4 @@
-## Willkommen zu den "GitHub Pages" vom [#relichat](https://relichat.org)
+## Willkommen zu den "GitHub Pages" vom [#relichat](https://relichat.org) auf [https://rpi-virtuell.github.io/relichat](https://rpi-virtuell.github.io/relichat)
 
 Du kannst den  [Editor auf GitHub](https://github.com/rpi-virtuell/relichat/edit/master/README.md) nutzen um den Inhalt deiner Website in Markdown-Dateien zu pflegen und in der Vorschau anzuzeigen.
 
@@ -15,7 +15,7 @@ unter [/orga/moderationsvorlagen](https://github.com/rpi-virtuell/relichat/tree/
 [Sammlung bisheriger Visuals als .jpg und .PSD](https://cloud.rpi-virtuell.de/index.php/s/bZPa2FbY2bMagbE) auf nextcloud 
 
 #### Design
-Schriftart / Font "Yanone Kaffeesatz" | https://www.yanone.de/fonts/kaffeesatz/
+Schriftart / Font "Yanone Kaffeesatz" | [https://www.yanone.de/fonts/kaffeesatz/](https://www.yanone.de/fonts/kaffeesatz/)
 
 
 
