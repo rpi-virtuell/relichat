@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Willkommen zu den "GitHub Pages" vom #relichat
 
-You can use the [editor on GitHub](https://github.com/rpi-virtuell/relichat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Du kannst den  [Editor auf GitHub] nutzen(https://github.com/rpi-virtuell/relichat/edit/master/README.md) um den Inhalt deiner Website in Markdown-Dateien zu pflegen und in der Vorschau anzuzeigen.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,19 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Überschrift 1
+## Überschrift 2
+### Überschrift 3
 
-- Bulleted
-- List
+- Strichpunkt
+- Liste
 
-1. Numbered
-2. List
+1. Nummerierte
+2. Liste
 
-**Bold** and _Italic_ and `Code` text
+**Fett** und _kursiv_ und `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) und ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
