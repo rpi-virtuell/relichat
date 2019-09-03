@@ -12,4 +12,4 @@ unter [/orga/moderationsvorlagen](https://github.com/rpi-virtuell/relichat/tree/
 
 ### Unterstützung oder Kontakt
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Informationen*** gibt's auf [relichat.org](http://www.relichat.org/) oder du kontaktierst auf twitter  [@joerglohrer](https://twitter.com/joerglohrer), [@kpeboeck](https://twitter.com/kpeboeck), [@davidwakefield](https://twitter.com/davidwakefield) oder einfach jemand, der/die zu [#relichat](https://twitter.com/search?q=relichat&src=typed_query&f=live) twittert
