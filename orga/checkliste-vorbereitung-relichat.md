@@ -1,4 +1,18 @@
-# Checkliste Vorbereitung #relichat
+---
+title: Checkliste Vorbereitung #relichat
+description: Wochenverlauf zur #relichat-Vorbereitung
+image: https://raw.githubusercontent.com/rpi-virtuell/relilab/main/Grafik%2BDesign/Logos/Icons/relilab-twitter.png
+tags: relichat, twitter, checklist
+lang: de
+dir: ltr
+toc: true
+toc_label: "Ablauf"
+toc_icon: "twitter-square" 
+toc_sticky: "true" 
+---
+
+
+# Checkliste Vorbereitung #relichat <img src="https://raw.githubusercontent.com/rpi-virtuell/relilab/main/Grafik%2BDesign/Logos/Icons/relilab-twitter.png" width="50">
 ## bis Donnerstag
 - [ ] 1. Thema finden
 - [ ] 2. Moderationstandem absprechen
